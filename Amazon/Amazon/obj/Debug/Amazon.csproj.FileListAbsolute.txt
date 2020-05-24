@@ -1,0 +1,9 @@
+C:\Users\0\source\repos\Amazon\Amazon\bin\Debug\Amazon.exe.config
+C:\Users\0\source\repos\Amazon\Amazon\bin\Debug\Amazon.exe
+C:\Users\0\source\repos\Amazon\Amazon\bin\Debug\Amazon.pdb
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.csprojAssemblyReference.cache
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.Form1.resources
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.Properties.Resources.resources
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.csproj.GenerateResource.cache
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.exe
+C:\Users\0\source\repos\Amazon\Amazon\obj\Debug\Amazon.pdb
